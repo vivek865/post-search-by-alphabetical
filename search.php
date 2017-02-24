@@ -1,4 +1,4 @@
-$args = array (
+<?php $args = array (
   'post_type' => 'post',
   'ignore_sticky_posts' => true,
   'substring_where' => 't',
